@@ -1,4 +1,2 @@
 # OpenIus
-Collection of iuristical documents
-
-haha
+Sammlung von Vorlagen für juristische Texte wie Verträge, Statuten etc.
